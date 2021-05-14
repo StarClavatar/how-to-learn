@@ -1,3 +1,5 @@
+
+@import url("../styles/normalize.css");
 @import url("../animation/rotation.css");
 @import url("../blocks/link/link.css");
 @import url("../blocks/page/page.css");
