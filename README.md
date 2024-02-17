@@ -1,7 +1,41 @@
-# how-to-learn - проектная работа по вёрстке
+# Научиться учиться. Лендинг для Яндекс.Практикума
+---
 
-Это одностраничный сайт созданный в образовательных целях, при создании сайта использовались _flexbox_, _iframe_, _анимации и трансформации_ 
+Проект представляет собой одностраничный сайт.
 
-## __Планы по доработке проекта__
-1. Создать форму обратной связи.
+## Стек
+* HTML
+* CSS
 
+## Реализация
+* Flexbox вёрстка
+* CSS-анимация
+* Файловая структура проекта по правилам Nested БЭМ
+
+## Планы по доработке
+* Адаптировать сайт для просмотра на разных устройствах
+
+## Ссылка на сайт:
+https://svetanti.github.io/how-to-learn/
+
+---
+
+# How to learn. The second project for Yandex.Praktikum
+---
+
+The single page website is created using some advanced features of HTML and CSS.
+
+## Stack
+* HTML
+* CSS
+
+## Realization
+* Flexbox layout
+* CSS-animation
+* The Nested BEM file stucture
+
+## Future improvements
+* To optimize website for different screen sizes
+
+## URL:
+https://svetanti.github.io/how-to-learn/
